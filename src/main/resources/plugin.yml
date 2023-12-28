@@ -1,0 +1,4 @@
+name: Instagib
+version: '${version}'
+main: paulpugh000.instagib.Instagib
+api-version: '1.20'
